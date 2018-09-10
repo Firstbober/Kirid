@@ -1,5 +1,7 @@
 <img src="https://cdn.discordapp.com/attachments/437310430721998848/447114026506387457/ObaKiridLogo.png"/>
 
+# This kernel is dead :p
+
 # Kirid
 Kernel made for fun. Use pull requests to help us in code creating
 ## Compilation
